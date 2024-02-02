@@ -3433,8 +3433,8 @@
       "style_name": "QWEN",
       "system_prompt": "You are a helpful assistant.",
       "roles": [
-        "Human",
-        "Assistant"
+        "user",
+        "assistant"
       ],
       "intra_message_sep": "\n",
       "stop_token_ids": [
